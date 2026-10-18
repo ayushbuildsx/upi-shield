@@ -82,8 +82,6 @@ Shopkeepers should confirm payments through their bank or official payment appli
 
 ![Screenshot 3](demo3.png)
 
-📄 [Project deck (PDF)](UPI%20Shield%20-%20TriNetra.pdf)
-
 ## 🔗 Links
 
 - 📄 [Project deck (PDF)](UPI%20Shield%20-%20TriNetra.pdf)
