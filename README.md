@@ -82,4 +82,12 @@ Shopkeepers should confirm payments through their bank or official payment appli
 
 ![Screenshot 3](demo3.png)
 
+📄 [Project deck (PDF)](UPI%20Shield%20-%20TriNetra.pdf)
+
+## 🔗 Links
+
+- 📄 [Project deck (PDF)](UPI%20Shield%20-%20TriNetra.pdf)
+- 🤖 [Live agent on Agentverse](https://agentverse.ai/agents/details/agent1qv4a59gu9yvrdmdx7uwhnpuptd833c55az3pe7r9c7p6wu3m2gcxwfjl0ng/profile)
+- 💬 [Chat on ASI:One](https://asi1.ai)
+
 **Event:** Fetch-A-Thon 3.0 — GCET Edition, Round 1.
