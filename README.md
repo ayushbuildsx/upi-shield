@@ -74,4 +74,12 @@ Shopkeepers should confirm payments through their bank or official payment appli
 - Sharyansh Gupta — DTU
 - Anjali Singh — DSEU
 
+## 📸 Screenshots
+
+![Screenshot 1](demo1.png)
+
+![Screenshot 2](demo2.png)
+
+![Screenshot 3](demo3.png)
+
 **Event:** Fetch-A-Thon 3.0 — GCET Edition, Round 1.
